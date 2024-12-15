@@ -27,3 +27,7 @@
     - home page를 (home) 라우트 그룹으로 이동
     - 괄호 폴더 생성 시 url에 영향을 미치지 않음
     - 그룹으로 묶어서 사용 가능
+- add: metadata
+    - 메인 layout에 있는 metadata 중 title은 각 페이지별로 다르게 설정
+    - 페이지 타이틀을 metadata로 간단하게 설정 가능
+    - metadata는 중첩이 가능하며 상위에 템플릿으로 설정 시 하위에서 사용 가능
