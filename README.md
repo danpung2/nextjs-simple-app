@@ -11,4 +11,7 @@
     - 마찬가지로 page 이름을 가진 jsx, tsx를 인식해서 next가 페이지를 만들어 줌
 - add: about-us/company, about-us/company/sales
     - about-us 내부에 폴더 생성 시 경로 생성
-    - 폴더 내의 폴더는 계속해서 경로를 생성하는 행위
+    - 폴더 내의 폴더와 함께 page.tsx를 생성하는 것은 계속해서 경로와 페이지를 생성하는 행위
+- add: avatar
+    - 폴더 내에 page 이름을 가진 jsx, tsx가 없을 경우 경로 생성 없음
+    - page에서 import 해서 사용 가능
