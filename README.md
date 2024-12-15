@@ -15,3 +15,6 @@
 - add: avatar
     - 폴더 내에 page 이름을 가진 jsx, tsx가 없을 경우 경로 생성 없음
     - page에서 import 해서 사용 가능
+- add: not-found
+    - not found 페이지 생성
+    - nextJs의 기본 구성은 page, layout, not-found
