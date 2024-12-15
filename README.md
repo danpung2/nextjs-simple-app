@@ -21,3 +21,5 @@
 - add: component - navigator
     - navigator 컴포넌트 생성 및 각 페이지에 적용
     - nextJs Link를 통해 페이지 이동이 가능
+- add: layout and move navigation
+    - layout 설정, 내부 하위 layout 생성 및 네비게이션을 layout으로 이동
