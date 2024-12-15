@@ -18,3 +18,6 @@
 - add: not-found
     - not found 페이지 생성
     - nextJs의 기본 구성은 page, layout, not-found
+- add: component - navigator
+    - navigator 컴포넌트 생성 및 각 페이지에 적용
+    - nextJs Link를 통해 페이지 이동이 가능
