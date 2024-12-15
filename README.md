@@ -23,3 +23,7 @@
     - nextJs Link를 통해 페이지 이동이 가능
 - add: layout and move navigation
     - layout 설정, 내부 하위 layout 생성 및 네비게이션을 layout으로 이동
+- add: route group - home
+    - home page를 (home) 라우트 그룹으로 이동
+    - 괄호 폴더 생성 시 url에 영향을 미치지 않음
+    - 그룹으로 묶어서 사용 가능
