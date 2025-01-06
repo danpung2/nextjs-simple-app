@@ -31,3 +31,5 @@
     - 메인 layout에 있는 metadata 중 title은 각 페이지별로 다르게 설정
     - 페이지 타이틀을 metadata로 간단하게 설정 가능
     - metadata는 중첩이 가능하며 상위에 템플릿으로 설정 시 하위에서 사용 가능
+- add: dynamic route
+    - 리액트 훅과 같은 동적 변수 활용
